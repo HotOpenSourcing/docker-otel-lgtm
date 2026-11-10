@@ -4,7 +4,7 @@
   "description": "Simple Express app that rolls a dice.",
   "main": "app.js",
   "scripts": {
-    "start": "node bootstrap.js",
+    "start": "node init && node bootstrap.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

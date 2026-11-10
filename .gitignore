@@ -6,9 +6,10 @@ venv/
 /container/prometheus/*
 .lycheecache
 *.iml
-.env
 opentelemetry-javaagent*.jar
 grafana-opentelemetry*.jar
 build/
 obj/
 examples/go/dice
+config.bat
+node_modules
